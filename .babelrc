@@ -1,0 +1,9 @@
+{
+    "presets": [
+        // esta dependencia nos ayuda a tranajar con anvegadores modernos
+        "@babel/preset-env"
+    ],
+    "plugins": [
+        "@babel/plugin-transform-runtime"
+    ]
+}
